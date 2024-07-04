@@ -1,9 +1,9 @@
 <h1>Bizscape</h1>
 <h2>It is a website where you can serach any location such in bars,cafe,hotels,etc and also you'll redirected to that page</h2>
 <h3><li><ul>
-  1.typescript
-  2.google maps api
-  3. next js
+  1.typescript<br>
+  2.google maps api<br>
+  3. next js<br>
   4. tailwind css</ul>
 </li></h3>
 
